@@ -8,5 +8,5 @@
 - 💽 I'm skilled in PHP and JavaScript, first and foremost.
 - 📧 Email me - jleyanna@gmail.com
 - 🕹️ I'm a video game enthusiast 🎮 Photographer 📷 Professional web developer 💻
-- 🕸️ Visit my personal website here: [Jason.ws](htts://www.jason.ws)
+- 🕸️ Visit my personal website here: [Jason.ws](https://www.jason.ws)
 - 🌱 I’m currently learning about Quantum Computing
